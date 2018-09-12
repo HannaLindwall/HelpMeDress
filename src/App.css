@@ -1,0 +1,36 @@
+.divider {
+  height: 250px;
+  width: 99vw;
+}
+
+.divider1 {
+  background-color: rgba(230, 230, 230, 0.5);
+}
+
+.divider2 {
+  background-color: rgba(204, 245, 255, 0.5);
+}
+
+.collage {
+  display: flex;
+  height: 515px;
+}
+
+.collage img {
+  height: 515px;
+}
+
+.img1 img {
+  width: 25vw;
+}
+
+.img2 img {
+  width: 49vw;
+}
+.img3 img {
+  width: 25vw;
+}
+
+.App-intro {
+  font-size: large;
+}
